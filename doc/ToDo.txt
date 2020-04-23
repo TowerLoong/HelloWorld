@@ -1,0 +1,14 @@
+(1) Memopad の django 版
+    a. models.py の定義
+    b. migration
+    c. templates の用意
+    d. 画面の更新
+
+(2) Django 版 Memopadへの、画像のアップロード
+    a. 画像ファイルの models 定義
+    b. templates
+    c. 画像付き、memopad 画面
+
+(3) Django での、 i18n
+
+(4) グラフィクスを django で描画する。

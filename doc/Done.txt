@@ -1,0 +1,13 @@
+2020.04.23(Thu)
+
+
+
+
+
+
+    (1) Memopad の django 版
+        a. models.py の定義
+        b. migration
+        c. templates の用意
+        d. 画面の更新
+
