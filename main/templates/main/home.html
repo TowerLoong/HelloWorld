@@ -1,0 +1,18 @@
+{# Project: MemoPad #}
+{# HOME 画面 #}
+
+{% extends "base.html" %}
+
+{% block title %}Hello World!{% endblock %}
+
+{% block content %}
+    <br>
+    <div class="container">
+
+        <!-- Content -->
+        <h3>Hello World!</h3>
+        {{ my_message }}
+        <br>
+        <a id="memo_app" href="{% url 'main:list_memo' %}">メモの一覧</a>
+    </div>
+{% endblock %}
