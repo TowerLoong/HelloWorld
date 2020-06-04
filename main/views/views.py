@@ -5,7 +5,7 @@ from django.http import HttpResponse
 
 
 def index(request):
-    return HttpResponse("Hello, world. You're at the main index!!!")
+    return HttpResponse("Tao Hello, world. You're at the main index!!!")
 
 
 # 暫定ポータル画面へ移動
